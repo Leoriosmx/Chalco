@@ -1,0 +1,23 @@
+body{
+    background-color: #F0F8FF; 
+}
+
+h1{
+    border: 1px solid red;
+    padding: 16px 0px 16px 0px;
+}
+
+#Edo{
+    font-family: "Bungee Tint", sans-serif;
+}
+
+p{
+    font-style: italic;
+}
+#CCR{
+    background-color: yellow;
+}
+
+li{
+    font-family:"DM Serif Text", serif; 
+}
